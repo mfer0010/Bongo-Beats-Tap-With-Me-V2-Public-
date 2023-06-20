@@ -1,0 +1,20 @@
+Feedback Improvements:
+
+-> Talk about the sounds & different sounds for feedback
+-> Volume modulation for feedback
+-> Added visual feedback to all the audio feedbacks to be consisten in AV mode
+-> Feedback for note early, note missed, note late, note hit, etc.
+-> Feedback sounds coming from left and right depending on which note was missed
+-> Sound mixing to ensure the volume of feedback is heard no matter the song
+-> Menus and tutorial of sounds (TO DO!!)
+-> Controller instead of keyboard with vibrations when note is hit
+-> Audio Scoreboard (TO DO!!!)
+
+
+
+Other notes:
+-> Mention songs & song sources in Annex
+-> Mention in song adding process how Sonic Visualiser was used to convert to WAV format for beat tracking
+-> Feedback sounds taken from freesound.org and GameSFX thing
+
+-> Score: +3 if note hit, +1 if early/late, +0 otherwise

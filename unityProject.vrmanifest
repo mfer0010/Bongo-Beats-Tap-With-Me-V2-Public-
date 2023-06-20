@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.bongobeatsenhanced.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "C:\\Users\\marcf\\Documents\\Bongo Beats Enhanced\\Bongo Beats Enhanced\\Assets\\StreamingAssets\\SteamVR\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "Bongo Beats Enhanced [Testing]"
+        }
+      }
+    }
+  ]
+}
